@@ -1,2 +1,2 @@
 # HelloWorld
-First Repo to greet world !
+First Project to greet world !
